@@ -103,7 +103,9 @@ address {
     font-weight: 500;
     line-height: 24px; /* 120% */
     letter-spacing: 0.4px;
+    color: #2E2F42;
 }
+
 .list-text {
     color:  #434455;
     letter-spacing: 0.02em;
@@ -140,7 +142,7 @@ address {
     color: #FFFFFF;
 }   
 .footer .logo span {
-    color: #FFFFFF;
+    color:  #f4f4fd;
 }
 .footer-text {
     line-height: 1.5;
