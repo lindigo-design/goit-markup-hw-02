@@ -61,11 +61,24 @@ address {
     color: #404BBF;
 }
 
+.hero-section {
+    background-color: 2E2F42;
+    
+}
+.hero-section-title {
+   font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.5
+    letter-spacing: 1.12px;
+}
+
 button {
     font-family: inherit;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
+    letter-spacing: 0.04e;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
@@ -74,6 +87,5 @@ button:hover {
     background-color: #404BBF;
 }
 button:focus {
-    outline: 2px solid #000000;
-    outline-offset: 2px;
+ color: #404BBF;
 }
