@@ -135,5 +135,15 @@ address {
 .portfolio-list {
     list-style: none;
 }
-
-
+.footer {
+    background-color: #2e2f42;
+    color: #FFFFFF;
+}   
+.footer .logo span {
+    color: #FFFFFF;
+}
+.footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}   
