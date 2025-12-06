@@ -69,23 +69,25 @@ address {
    font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.5
-    letter-spacing: 1.12px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
 }
 
-button {
+.button {
     font-family: inherit;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
-    letter-spacing: 0.04e;
+    letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
 }   
-button:hover {
-    background-color: #404BBF;
+.button:hover {
+ color: #404BBF;
 }
-button:focus {
+.button:focus {
  color: #404BBF;
 }
