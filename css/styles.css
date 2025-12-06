@@ -28,16 +28,16 @@ body {
 .main-nav {
     list-style: none;
 }   
-.main-nav li a{
+.main-nav-list{
     font-weight: 500;
     letter-spacing: 0.02em;
     text-decoration: none;
     color: #2E2F42;
 }
-.main-nav li a:hover {
+.main-nav-list:hover {
     color: #404BBF;
 }
-.main-nav li a:focus            
+.main-nav-list:focus            
 {
     color: #404BBF;
 }
@@ -47,17 +47,17 @@ address {
 .address-item{
     list-style: none;
 }
-.address-item a{
+.address-item-list{
     color: #434455;
     letter-spacing: 0.02em;
     text-decoration: none;
 }  
-.address-item a:hover
+.address-item-list:hover
 {
     color: #404BBF;
 }
 
-.address-item a:focus{
+.address-item-list:focus{
     color: #404BBF;
 }
 
