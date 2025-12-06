@@ -34,7 +34,10 @@ body {
     text-decoration: none;
     color: #2E2F42;
 }
-.main-nav li a:hover :focus
+.main-nav li a:hover {
+    color: #404BBF;
+}
+.main-nav li a:focus            
 {
     color: #404BBF;
 }
@@ -49,6 +52,9 @@ address {
     text-decoration: none;
 }  
 address li a:hover
+{
+    color: #404BBF;
+}
 address li a:focus{
     color: #404BBF;
 }
