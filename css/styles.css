@@ -21,7 +21,7 @@ body {
     text-decoration: none;
     text-transform: uppercase;
 } 
-.logo span {
+.span-logo-dark {
     font-weight: 700;
     color: #2e2f42;
 }   
@@ -141,7 +141,7 @@ address {
     background-color: #2e2f42;
     color: #FFFFFF;
 }   
-.footer .logo span {
+.span-logo-light {
     color:  #f4f4fd;
 }
 .footer-text {
@@ -149,3 +149,4 @@ address {
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }   
+
