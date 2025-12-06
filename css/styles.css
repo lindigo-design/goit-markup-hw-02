@@ -62,11 +62,10 @@ address {
 }
 
 .hero-section {
-    background-color: 2E2F42;
+    background-color: #2e2f42;
     
 }
 .hero-section-title {
-   font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -86,8 +85,55 @@ address {
     cursor: pointer;
 }   
 .button:hover {
- color: #404BBF;
+ background-color: #404BBF;
 }
 .button:focus {
- color: #404BBF;
+ background-color: #404BBF;
 }
+.features {
+    background-color: #FFFFFF;
+}
+
+.features-list {
+    list-style: none;
+}   
+.subtitle {
+   font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px; /* 120% */
+    letter-spacing: 0.4px;
+}
+.list-text {
+    color:  #434455;
+    letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+
+}
+.team {
+    background-color: #F4F4FD;
+}   
+.title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11; /* 111.111% */
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+}
+.team-list {
+    list-style: none;
+}   
+.team-list-item {
+    background-color: #FFFFFF;
+}
+.portfolio {
+    background-color: #FFFFFF;
+}   
+.portfolio-list {
+    list-style: none;
+}
+
+
