@@ -7,6 +7,10 @@ body {
     font-weight:400;
     font-style: normal;
 }
+.header {
+
+}
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -21,6 +25,9 @@ body {
     font-weight: 700;
     color: #2e2f42;
 }   
+.main-nav {
+    list-style: none;
+}   
 .main-nav li a{
     font-weight: 500;
     letter-spacing: 0.02em;
@@ -31,12 +38,18 @@ body {
 {
     color: #404BBF;
 }
+address {
+    font-style: normal;
+}   
+.address ul{
+    list-style: none;
+}
 .address li a{
     color: #2E2F42;
-    font-style: normal;
     text-decoration: none;
 }  
-address li a:hover{
+address li a:hover
+address li a:focus{
     color: #404BBF;
 }
 
