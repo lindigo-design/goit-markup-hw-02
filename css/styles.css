@@ -44,18 +44,19 @@ body {
 address {
     font-style: normal;
 }   
-.address ul{
+.address-item{
     list-style: none;
 }
 .address li a{
     color: #2E2F42;
     text-decoration: none;
 }  
-address li a:hover
+.address-item a:hover
 {
     color: #404BBF;
 }
-address li a:focus{
+
+.address-item a:focus{
     color: #404BBF;
 }
 
