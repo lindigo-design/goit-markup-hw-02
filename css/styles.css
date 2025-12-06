@@ -94,7 +94,9 @@ address {
     background-color: #FFFFFF;
 }
 .features-title{
-    
+      display: none;
+
+  
 }
 
 .features-list {
