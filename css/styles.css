@@ -47,8 +47,9 @@ address {
 .address-item{
     list-style: none;
 }
-.address li a{
-    color: #2E2F42;
+.address-item a{
+    color: #434455;
+    letter-spacing: 0.02em;
     text-decoration: none;
 }  
 .address-item a:hover
