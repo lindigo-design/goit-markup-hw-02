@@ -93,11 +93,6 @@ address {
 .features {
     background-color: #FFFFFF;
 }
-.features-title{
-      display: none;
-
-  
-}
 
 .features-list {
     list-style: none;
